@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hà Nhật Khoa! 👾🛡️</h1>
+<h1 align="center">Hi there, I'm Ha Nhat Khoa! 👾🛡️</h1>
 <p align="center">
   <em>🛡️ <strong>Cybersecurity Student</strong> @ <strong>University of Information Technology (UIT - VNU-HCM)</strong></em><br>
   <em>🎓 Honors Program in Information Security (<strong>ATTN2025 | Cohort 20</strong>)</em><br>
