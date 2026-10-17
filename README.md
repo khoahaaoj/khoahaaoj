@@ -1,7 +1,8 @@
-<h1 align="center">Hi there, I'm Hà Nhật Khoa! 👋</h1>
+<h1 align="center">Hi there, I'm Hà Nhật Khoa! 👾🛡️</h1>
 <p align="center">
-  <em>🎓 Computer Science Student @ <strong>University of Information Technology (UIT - VNU-HCM)</strong></em><br>
-  <em>🎮 Passionate Game Developer & Algorithmic Problem Solver</em>
+  <em>🛡️ <strong>Cybersecurity Student</strong> @ <strong>University of Information Technology (UIT - VNU-HCM)</strong></em><br>
+  <em>🎓 Information Security Honors Program (<strong>ATTN2025 | K20</strong>)</em><br>
+  <em>🎮 Passionate about <strong>Game Development</strong>, <strong>Ethical Hacking</strong>, <strong>Reverse Engineering</strong> & <strong>DSA</strong></em>
 </p>
 
 <p align="center">
@@ -12,18 +13,19 @@
 
 ### 👨‍💻 Về bản thân (About Me)
 
-- 🏫 Sinh viên lớp **IT003.Q21.CTTN** - Trường Đại học Công nghệ Thông tin, ĐHQG TP.HCM.
-- 💡 Yêu thích việc ứng dụng **Cấu trúc dữ liệu & Giải thuật (DSA)** vào phát triển Game thời gian thực để tối ưu hóa hiệu năng phần cứng.
-- 🚀 Đang phát triển và mở rộng các dự án game 2D/3D trên nền tảng Python, Pygame và C++.
-- 📫 Liên hệ: [GitHub](https://github.com/khoahaaoj)
+- 🛡️ **Chuyên ngành:** **An toàn Thông tin (Information Security / Cybersecurity)** — Lớp **An toàn Tài năng Khóa 2025 (ATTN2025 | K20)** tại Trường Đại học Công nghệ Thông tin (UIT - ĐHQG TP.HCM).
+- 🎮 **Game Development:** Đam mê thiết kế cơ chế gameplay, toán học vật lý và tối ưu hóa Game Engine thời gian thực (Big Data / Real-time Collision Detection) bằng các Cấu trúc Dữ liệu & Giải thuật nâng cao (QuadTree, Min-Heap, Boids AI).
+- 💻 **Ethical Hacking & Security:** Say mê khám phá thế giới an ninh mạng, **Reverse Engineering (Dịch ngược mã máy / Game Reversing)**, **Binary Exploitation (Pwn)**, **Web Security** và thử thách giải đố **CTF (Capture The Flag)**.
+- ⚡ **Châm ngôn:** *"Hiểu sâu từ tầng nhị phân, bộ nhớ và giải thuật để vừa xây dựng thế giới game mượt mà, vừa làm chủ nghệ thuật phòng thủ - tấn công mạng."*
+- 📫 **Kết nối:** [GitHub](https://github.com/khoahaaoj)
 
 ---
 
-### ⚔️ Dự án nổi bật (Featured Project)
+### ⚔️ Dự án tâm huyết (Featured Project)
 
 <div align="center">
   <h3>🎮 <a href="https://github.com/khoahaaoj/DSA_Survival_Game">DSA Survival: Top-Down Time Survival Game</a></h3>
-  <p>Một tựa game sinh tồn 2D nhịp độ cao áp dụng chuyên sâu các giải thuật <strong>QuadTree O(N log N)</strong>, <strong>Min-Heap Auto-Aim</strong>, <strong>Queue FIFO Wave Manager</strong> và <strong>Boids AI</strong> duy trì ổn định 60 FPS với hàng trăm thực thể đồng thời.</p>
+  <p>Một tựa game sinh tồn 2D nhịp độ cao phát triển trên Python/Pygame, ứng dụng chuyên sâu các giải thuật <strong>QuadTree O(N log N)</strong>, <strong>Min-Heap Auto-Aim</strong>, <strong>Queue FIFO Wave Manager</strong> và <strong>Boids AI</strong> duy trì ổn định 60 FPS khi xử lý hàng trăm thực thể quái vật đồng thời.</p>
   <p>
     <a href="https://github.com/khoahaaoj/DSA_Survival_Game/releases">
       <img src="https://img.shields.io/github/v/release/khoahaaoj/DSA_Survival_Game?color=brightgreen&label=Download%20EXE&logo=windows&style=flat-square" alt="Release" />
@@ -35,16 +37,29 @@
 
 ---
 
-### 🛠️ Kỹ năng & Công nghệ (Tech Stack)
+### 🛠️ Kỹ năng & Vũ khí công nghệ (Tech Stack & Arsenal)
 
+#### 💻 Ngôn ngữ lập trình (Programming Languages)
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <!-- Game & Frameworks -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Assembly%20(x86)-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+</p>
+
+#### 🛡️ An toàn thông tin & Hacking Tools (Security & Reverse Engineering)
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/GDB%20%2F%20Pwn-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Reverse Engineering" />
+</p>
+
+#### 🎮 Game Development & Tools
+<p align="center">
   <img src="https://img.shields.io/badge/Pygame-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Pygame" />
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -54,7 +69,7 @@
 
 ---
 
-### 📊 Thống kê GitHub (GitHub Stats)
+### 📊 Thống kê hoạt động GitHub (GitHub Stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khoahaaoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hà Nhật Khoa GitHub Stats" />
@@ -69,5 +84,5 @@
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/khoahaaoj">Hà Nhật Khoa</a> with love!</i>
+  <i>⚡ From <strong>Hà Nhật Khoa</strong> | Class <strong>ATTN2025 (K20)</strong> — UIT with passion for Security & Game Dev!</i>
 </p>
