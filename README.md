@@ -6,8 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khoahaaoj&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Security_Field-Information_Security-00e5ff?style=for-the-badge&logo=target&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/Honors_Class-ATTN2025%20%7C%20K20-E53935?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Class" />
+  <img src="https://img.shields.io/badge/Passion-Game_Dev%20%26%20Ethical_Hacking-FFD43B?style=for-the-badge&logo=gamecontroller&logoColor=black" alt="Passion" />
 </p>
+
 
 ---
 
