@@ -4,8 +4,7 @@
 - 🛡️ **Major:** Information Security (Honors Program — **ATTN2025 | K20**) at the University of Information Technology (UIT - VNU-HCM).
 - 🎮 **Game Enthusiast:** Huge fan of video games and passionate about game development — creating engaging mechanics, physics, and smooth game loops.
 - 💻 **Security & Hacking:** Enthusiastic about **Ethical Hacking**, **Reverse Engineering**, **Binary Exploitation (Pwn)**, and competing in **CTFs (Capture The Flag)**.
-- <em>"When something is important enough, you do it even if the odds are not in your favor."</em><br>
-  <strong>— Elon Musk</strong>
+- <em>"When something is important enough, you do it even if the odds are not in your favor. - Elon Musk"</em><br>
 - 📫 **Connect with me:** [GitHub Profile](https://github.com/khoahaaoj)
 
 ---
