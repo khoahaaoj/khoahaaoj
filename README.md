@@ -1,34 +1,37 @@
 <h1 align="center">Hi there, I'm Hà Nhật Khoa! 👾🛡️</h1>
 <p align="center">
   <em>🛡️ <strong>Cybersecurity Student</strong> @ <strong>University of Information Technology (UIT - VNU-HCM)</strong></em><br>
-  <em>🎓 Information Security Honors Program (<strong>ATTN2025 | K20</strong>)</em><br>
-  <em>🎮 Passionate about <strong>Game Development</strong>, <strong>Ethical Hacking</strong>, <strong>Reverse Engineering</strong> & <strong>DSA</strong></em>
+  <em>🎓 Honors Program in Information Security (<strong>ATTN2025 | Cohort 20</strong>)</em><br>
+  <em>🎮 Passionate about <strong>Game Development</strong> & <strong>Ethical Hacking</strong></em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security_Field-Information_Security-00e5ff?style=for-the-badge&logo=target&logoColor=white" alt="Security" />
-  <img src="https://img.shields.io/badge/Honors_Class-ATTN2025%20%7C%20K20-E53935?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Class" />
-  <img src="https://img.shields.io/badge/Passion-Game_Dev%20%26%20Ethical_Hacking-FFD43B?style=for-the-badge&logo=gamecontroller&logoColor=black" alt="Passion" />
+  <img src="https://img.shields.io/badge/Major-Information_Security-00e5ff?style=for-the-badge&logo=target&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/Class-ATTN2025%20%7C%20K20-E53935?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Class" />
+  <img src="https://img.shields.io/badge/Interests-Gaming%20%26%20Hacking-FFD43B?style=for-the-badge&logo=gamecontroller&logoColor=black" alt="Interests" />
 </p>
 
+<p align="center">
+  <em>"When something is important enough, you do it even if the odds are not in your favor."</em><br>
+  <strong>— Elon Musk</strong>
+</p>
 
 ---
 
-### 👨‍💻 Về bản thân (About Me)
+### 👨‍💻 About Me
 
-- 🛡️ **Chuyên ngành:** **An toàn Thông tin (Information Security / Cybersecurity)** — Lớp **An toàn Tài năng Khóa 2025 (ATTN2025 | K20)** tại Trường Đại học Công nghệ Thông tin (UIT - ĐHQG TP.HCM).
-- 🎮 **Game Development:** Đam mê thiết kế cơ chế gameplay, toán học vật lý và tối ưu hóa Game Engine thời gian thực (Big Data / Real-time Collision Detection) bằng các Cấu trúc Dữ liệu & Giải thuật nâng cao (QuadTree, Min-Heap, Boids AI).
-- 💻 **Ethical Hacking & Security:** Say mê khám phá thế giới an ninh mạng, **Reverse Engineering (Dịch ngược mã máy / Game Reversing)**, **Binary Exploitation (Pwn)**, **Web Security** và thử thách giải đố **CTF (Capture The Flag)**.
-- ⚡ **Châm ngôn:** *"Hiểu sâu từ tầng nhị phân, bộ nhớ và giải thuật để vừa xây dựng thế giới game mượt mà, vừa làm chủ nghệ thuật phòng thủ - tấn công mạng."*
-- 📫 **Kết nối:** [GitHub](https://github.com/khoahaaoj)
+- 🛡️ **Major:** Information Security (Honors Program — **ATTN2025 | K20**) at the University of Information Technology (UIT - VNU-HCM).
+- 🎮 **Game Enthusiast:** Huge fan of video games and passionate about game development — creating engaging mechanics, physics, and smooth game loops.
+- 💻 **Security & Hacking:** Enthusiastic about **Ethical Hacking**, **Reverse Engineering**, **Binary Exploitation (Pwn)**, and competing in **CTFs (Capture The Flag)**.
+- 📫 **Connect with me:** [GitHub Profile](https://github.com/khoahaaoj)
 
 ---
 
-### ⚔️ Dự án tâm huyết (Featured Project)
+### ⚔️ Featured Project
 
 <div align="center">
   <h3>🎮 <a href="https://github.com/khoahaaoj/DSA_Survival_Game">DSA Survival: Top-Down Time Survival Game</a></h3>
-  <p>Một tựa game sinh tồn 2D nhịp độ cao phát triển trên Python/Pygame, ứng dụng chuyên sâu các giải thuật <strong>QuadTree O(N log N)</strong>, <strong>Min-Heap Auto-Aim</strong>, <strong>Queue FIFO Wave Manager</strong> và <strong>Boids AI</strong> duy trì ổn định 60 FPS khi xử lý hàng trăm thực thể quái vật đồng thời.</p>
+  <p>A fast-paced 2D top-down time survival game built with Python and Pygame. Features automated weapon systems, enemy swarm intelligence, dynamic upgrade cards, and stable 60 FPS performance.</p>
   <p>
     <a href="https://github.com/khoahaaoj/DSA_Survival_Game/releases">
       <img src="https://img.shields.io/github/v/release/khoahaaoj/DSA_Survival_Game?color=brightgreen&label=Download%20EXE&logo=windows&style=flat-square" alt="Release" />
@@ -40,9 +43,9 @@
 
 ---
 
-### 🛠️ Kỹ năng & Vũ khí công nghệ (Tech Stack & Arsenal)
+### 🛠️ Tech Stack & Arsenal
 
-#### 💻 Ngôn ngữ lập trình (Programming Languages)
+#### 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -51,7 +54,7 @@
   <img src="https://img.shields.io/badge/Assembly%20(x86)-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
 </p>
 
-#### 🛡️ An toàn thông tin & Hacking Tools (Security & Reverse Engineering)
+#### 🛡️ Cybersecurity & Hacking Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -72,7 +75,7 @@
 
 ---
 
-### 📊 Thống kê hoạt động GitHub (GitHub Stats)
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khoahaaoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hà Nhật Khoa GitHub Stats" />
@@ -87,5 +90,5 @@
 ---
 
 <p align="center">
-  <i>⚡ From <strong>Hà Nhật Khoa</strong> | Class <strong>ATTN2025 (K20)</strong> — UIT with passion for Security & Game Dev!</i>
+  <i>⚡ "Stay hungry, stay curious." — Hà Nhật Khoa (ATTN2025 | UIT)</i>
 </p>
